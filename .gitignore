@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+CrashReportClient.ini
+Slimen_shit/Intermediate/CachedAssetRegistry.bin
+Slimen_shit/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+Slimen_shit/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Slimen_shit/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Slimen_shit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Slimen_shit/Saved/Config/WindowsEditor/Engine.ini
